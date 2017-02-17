@@ -63,5 +63,3 @@ h.pack()
 btn = Tk.Button(root, text = 'Démarrer', command = h.start)
 btn.pack()
 root.mainloop()
-
-# bugs corrigés par Fabrice Sincère (version 1.0.2)
