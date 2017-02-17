@@ -8,7 +8,7 @@ import tkinter as Tk
 import math
 
 # version 1.0.2
-# auteur : Guillaume Duriaud
+# auteur : Ouattara El Hadj Youssouf
 
 # classe permettant de gérer un Timer
 class MyTimer:
